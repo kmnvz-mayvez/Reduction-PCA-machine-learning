@@ -17,6 +17,13 @@ prediction heart disease with pca machine-learning
 | 0.0                  | 1.0    | 0.0      | 1.0       | 27.0 | 0.0    | 0.0    | 0.0      | 1.0          | 1.0    | ... | 1.0           | 0.0        | 2.0     | 0.0      | 0.0      | 0.0      | 0.0 | 11.0 | 3.0       | 6.0    |
 | 0.0                  | 1.0    | 1.0      | 1.0       | 24.0 | 0.0    | 0.0    | 0.0      | 1.0          | 1.0    | ... | 1.0           | 0.0        | 2.0     | 3.0      | 0.0      | 0.0      | 0.0 | 11.0 | 5.0       | 4.0    |
 
+# visualiasai scatterplot 
+
+![image](https://github.com/kmnvz-mayvez/machineLearning_reduction-with-PCA/assets/55338832/e5103f5b-c181-47f4-a9aa-af7bb4f0f139)
+
+- 1.0 heart diseaseor attack true
+- 0.0 heart diseaseor attack flase
+- 
 # summary
 # Reduction Feature form n_components = 15
 # Result:
