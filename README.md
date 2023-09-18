@@ -4,8 +4,8 @@ prediction heart disease with pca machine-learning
 # guide-start python code 
 
 - Install miniconda
-- Intall jupyter notebook
-- Intall Instalasi Environment python env_jcopml.yml
+- Install jupyter notebook
+- Install Instalasi Environment python env_jcopml.yml
 - check_installation.py
 
 # sample dataset preview
