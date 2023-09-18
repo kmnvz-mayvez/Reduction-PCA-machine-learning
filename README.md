@@ -22,8 +22,14 @@ prediction heart disease with pca machine-learning
 ![image](https://github.com/kmnvz-mayvez/machineLearning_reduction-with-PCA/assets/55338832/e5103f5b-c181-47f4-a9aa-af7bb4f0f139)
 
 - 1.0 heart diseaseor attack true
-- 0.0 heart diseaseor attack flase
-- 
+- 0.0 heart diseaseor attack false
+
+# Cumulative Explained Variance
+
+![image](https://github.com/kmnvz-mayvez/machineLearning_reduction-with-PCA/assets/55338832/3cb8dd1e-63ca-49cb-9c20-460ba9599acd)
+
+- untuk n_components 
+
 # summary
 # Reduction Feature form n_components = 15
 # Result:
