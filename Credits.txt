@@ -1,3 +1,7 @@
 # credits ref to JCOP wira 
 
 link : https://www.youtube.com/@JCOpUntukIndonesia
+
+# credist ref to kaggle.com
+
+link : https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning
