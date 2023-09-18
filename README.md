@@ -31,7 +31,7 @@ prediction heart disease with pca machine-learning
 - untuk n_components 
 
 # summary
-# Reduction Feature form n_components = 15
+# Reduction Feature form n_components = 10
 # Result:
 
 - algo__C: 0.05589524205217925
