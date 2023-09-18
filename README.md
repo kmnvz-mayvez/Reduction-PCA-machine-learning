@@ -19,7 +19,7 @@ prediction heart disease with pca machine-learning
 
 # visualiasai scatterplot 
 
-![image](https://github.com/kmnvz-mayvez/machineLearning_reduction-with-PCA/assets/55338832/e5103f5b-c181-47f4-a9aa-af7bb4f0f139)
+![image](https://github.com/kmnvz-mayvez/machineLearning_reduction-with-PCA/assets/55338832/64ca5b75-e8b5-4764-95d0-e7448a74e78f)
 
 - 1.0 heart diseaseor attack true
 - 0.0 heart diseaseor attack false
