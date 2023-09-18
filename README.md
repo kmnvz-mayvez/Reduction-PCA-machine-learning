@@ -17,23 +17,23 @@ prediction heart disease with pca machine-learning
 | 0.0                  | 1.0    | 0.0      | 1.0       | 27.0 | 0.0    | 0.0    | 0.0      | 1.0          | 1.0    | ... | 1.0           | 0.0        | 2.0     | 0.0      | 0.0      | 0.0      | 0.0 | 11.0 | 3.0       | 6.0    |
 | 0.0                  | 1.0    | 1.0      | 1.0       | 24.0 | 0.0    | 0.0    | 0.0      | 1.0          | 1.0    | ... | 1.0           | 0.0        | 2.0     | 3.0      | 0.0      | 0.0      | 0.0 | 11.0 | 5.0       | 4.0    |
 
-Summary
-Reduction Feature form n_components = 15
-Result:
+# summary
+# Reduction Feature form n_components = 15
+# Result:
 
-algo__C: 0.05660670699258889
-algo__gamma: 0.157823278107956
-pca__n_components: 15
-pca__whiten: False
-Accuracy: 0.5400652396720278
-Precision: 0.5655008278145696
-F1 Score: 0.5410950804162725
+- algo__C: 0.05660670699258889
+- algo__gamma: 0.157823278107956
+- pca__n_components: 15
+- pca__whiten: False
+- Accuracy: 0.5400652396720278
+- Precision: 0.5655008278145696
+- F1 Score: 0.5410950804162725
 
-After PCA form n_components = 10
-Result:
+# After PCA form n_components = 10
+# Result:
 
-algo__C: 0.05660670699258889
-algo__gamma: 0.157823278107956
-Accuracy: 0.5407550851466414
-Precision: 0.5746560627562283
-F1 Score: 0.5424550614947966
+- algo__C: 0.05660670699258889
+- algo__gamma: 0.157823278107956
+- Accuracy: 0.5407550851466414
+- Precision: 0.5746560627562283
+- F1 Score: 0.5424550614947966
