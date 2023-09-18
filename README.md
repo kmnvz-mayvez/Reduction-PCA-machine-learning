@@ -21,19 +21,19 @@ prediction heart disease with pca machine-learning
 # Reduction Feature form n_components = 15
 # Result:
 
-- algo__C: 0.05660670699258889
-- algo__gamma: 0.157823278107956
-- pca__n_components: 15
+- algo__C: 0.05589524205217925
+- algo__gamma: 4.689400963537697
+- pca__n_components: 10
 - pca__whiten: False
-- Accuracy: 0.5400652396720278
-- Precision: 0.5655008278145696
-- F1 Score: 0.5410950804162725
+- Accuracy: 0.9061071034374014
+- Precision: 0.905151174708294
+- F1 Score: 0.9052546515294859
 
-# After PCA form n_components = 10
+# After PCA form n_components = 5
 # Result:
 
-- algo__C: 0.05660670699258889
-- algo__gamma: 0.157823278107956
-- Accuracy: 0.5407550851466414
-- Precision: 0.5746560627562283
-- F1 Score: 0.5424550614947966
+- algo__C: 0.5450293694558256
+- algo__gamma: 51.41096648805754
+- Accuracy: 0.9065801403342794
+- Precision: 0.9052103043204037
+- F1 Score: 0.9053532008830022
